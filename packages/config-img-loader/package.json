@@ -1,6 +1,6 @@
 {
   "name": "@reskript/config-img-loader",
-  "version": "6.0.1",
+  "version": "6.0.2",
   "license": "MIT",
   "type": "module",
   "main": "./dist/index.js",
@@ -27,13 +27,13 @@
     "@types/imagemin-gifsicle": "^7.0.1",
     "@types/imagemin-mozjpeg": "^8.0.1",
     "@types/imagemin-optipng": "^5.2.1",
-    "@types/node": "^20.5.0",
-    "eslint": "^8.47.0",
-    "typescript": "5.2.0-dev.20230612",
+    "@types/node": "^20.6.1",
+    "eslint": "^8.49.0",
+    "typescript": "next",
     "webpack": "^5.88.2"
   },
   "dependencies": {
-    "@reskript/core": "6.0.1",
+    "@reskript/core": "6.0.2",
     "imagemin": "^8.0.1",
     "imagemin-gifsicle": "^7.0.0",
     "imagemin-mozjpeg": "^10.0.0",

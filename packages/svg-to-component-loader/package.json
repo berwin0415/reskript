@@ -1,6 +1,6 @@
 {
   "name": "@reskript/svg-to-component-loader",
-  "version": "6.0.1",
+  "version": "6.0.2",
   "license": "MIT",
   "type": "module",
   "main": "./dist/index.js",
@@ -24,12 +24,12 @@
     "test": "echo 'No test in @reskript/svg-to-component-loader'"
   },
   "devDependencies": {
-    "@types/node": "^20.5.0",
-    "eslint": "^8.47.0",
-    "typescript": "5.2.0-dev.20230612",
+    "@types/node": "^20.6.1",
+    "eslint": "^8.49.0",
+    "typescript": "next",
     "webpack": "^5.88.2"
   },
   "dependencies": {
-    "@reskript/build-utils": "6.0.1"
+    "@reskript/build-utils": "6.0.2"
   }
 }
