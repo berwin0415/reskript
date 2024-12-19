@@ -55,6 +55,15 @@ export default configure(
                     cert: path.resolve('./localhost.pem'),
                 },
             },
+            finalize: config => {
+                config.proxy = {
+                    '/api': {
+                        target: 'https://www.baidu.com',
+                        changeOrigin: true,
+                    },
+                };
+                return config;
+            },
         },
         plugins: [
             injectHtml(injectOptions),
