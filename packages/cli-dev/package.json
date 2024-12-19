@@ -1,6 +1,6 @@
 {
   "name": "@reskript/cli-dev",
-  "version": "6.0.2",
+  "version": "6.2.1",
   "license": "MIT",
   "type": "module",
   "main": "./dist/index.js",
@@ -24,20 +24,20 @@
     "test": "echo 'No test in @reskript/cli-dev'"
   },
   "devDependencies": {
-    "@types/express": "^4.17.17",
-    "@types/node": "^20.6.1",
-    "eslint": "^8.49.0",
+    "@types/express": "^4.17.18",
+    "@types/node": "^20.8.4",
+    "eslint": "^8.51.0",
     "typescript": "next",
-    "vite": "^4.4.9",
+    "vite": "^4.4.11",
     "webpack": "^5.88.2"
   },
   "dependencies": {
-    "@reskript/build-utils": "6.0.2",
-    "@reskript/config-vite": "6.0.2",
-    "@reskript/config-webpack": "6.0.2",
-    "@reskript/config-webpack-dev-server": "6.0.2",
-    "@reskript/core": "6.0.2",
-    "@reskript/settings": "6.0.2",
+    "@reskript/build-utils": "6.2.1",
+    "@reskript/config-vite": "6.2.1",
+    "@reskript/config-webpack": "6.2.1",
+    "@reskript/config-webpack-dev-server": "6.2.1",
+    "@reskript/core": "6.2.1",
+    "@reskript/settings": "6.2.1",
     "better-opn": "^3.0.2",
     "proxy-agent": "^6.3.1",
     "webpack-dev-server": "^4.15.1",

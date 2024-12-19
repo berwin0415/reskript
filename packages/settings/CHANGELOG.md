@@ -3,6 +3,57 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.2.1](https://github.com/ecomfe/reskript/compare/v6.2.0...v6.2.1) (2024-03-13)
+
+**Note:** Version bump only for package @reskript/settings
+
+
+
+
+
+# [6.2.0](https://github.com/ecomfe/reskript/compare/v6.0.3...v6.2.0) (2024-02-23)
+
+
+### Features
+
+* **build:** 增加--env-file参数支持自定义环境变量文件 ([#315](https://github.com/ecomfe/reskript/issues/315)) ([08b5d33](https://github.com/ecomfe/reskript/commit/08b5d337a6c063bb07aa18667c3e528568b36d7c))
+* **portal:** 支持异步初始化portal ([#351](https://github.com/ecomfe/reskript/issues/351)) ([060f600](https://github.com/ecomfe/reskript/commit/060f600382599f461c9f48a7b95a0e613413e5c0))
+
+
+
+
+
+## [6.1.1](https://github.com/ecomfe/reskript/compare/v6.1.0...v6.1.1) (2023-12-21)
+
+**Note:** Version bump only for package @reskript/settings
+
+
+
+
+
+# [6.1.0](https://github.com/ecomfe/reskript/compare/v6.0.3...v6.1.0) (2023-12-18)
+
+
+### Features
+
+* **build:** 增加--env-file参数支持自定义环境变量文件 ([#315](https://github.com/ecomfe/reskript/issues/315)) ([71b67ba](https://github.com/ecomfe/reskript/commit/71b67ba747ef43dd7b620b9984c969fde12ae590))
+* **portal:** 支持异步初始化portal ([#351](https://github.com/ecomfe/reskript/issues/351)) ([25b63cc](https://github.com/ecomfe/reskript/commit/25b63ccc6c6c1c01e90dea384c15dd678552895a))
+
+
+
+
+
+## [6.0.3](https://github.com/ecomfe/reskript/compare/v6.0.2...v6.0.3) (2023-10-10)
+
+
+### Bug Fixes
+
+* **settings:** 确保ESM项目可以引用到client类型 ([#347](https://github.com/ecomfe/reskript/issues/347)) ([580e112](https://github.com/ecomfe/reskript/commit/580e1121cc7ab865dbd77867ed728d87761bad25))
+
+
+
+
+
 ## [6.0.2](https://github.com/ecomfe/reskript/compare/v6.0.1...v6.0.2) (2023-09-15)
 
 **Note:** Version bump only for package @reskript/settings

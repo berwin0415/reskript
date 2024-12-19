@@ -3,6 +3,55 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.2.1](https://github.com/ecomfe/reskript/compare/v6.2.0...v6.2.1) (2024-03-13)
+
+
+### Bug Fixes
+
+* **build:** 移除对SVG的cleanupIds优化 ([361b8c6](https://github.com/ecomfe/reskript/commit/361b8c666512d8d005a65cc6349fd321b31a8711))
+
+
+
+
+
+# [6.2.0](https://github.com/ecomfe/reskript/compare/v6.0.3...v6.2.0) (2024-02-23)
+
+
+### Bug Fixes
+
+* **build:** 支持纯ESM解析到tsx文件 ([#352](https://github.com/ecomfe/reskript/issues/352)) ([7778d13](https://github.com/ecomfe/reskript/commit/7778d135fd022efd14d186eaf6d80a4ad05b6459))
+
+
+
+
+
+## [6.1.1](https://github.com/ecomfe/reskript/compare/v6.1.0...v6.1.1) (2023-12-21)
+
+**Note:** Version bump only for package @reskript/config-webpack
+
+
+
+
+
+# [6.1.0](https://github.com/ecomfe/reskript/compare/v6.0.3...v6.1.0) (2023-12-18)
+
+
+### Bug Fixes
+
+* **build:** 支持纯ESM解析到tsx文件 ([#352](https://github.com/ecomfe/reskript/issues/352)) ([2f193f2](https://github.com/ecomfe/reskript/commit/2f193f27a1965086218434d509c8a962c1fc6b51))
+
+
+
+
+
+## [6.0.3](https://github.com/ecomfe/reskript/compare/v6.0.2...v6.0.3) (2023-10-10)
+
+**Note:** Version bump only for package @reskript/config-webpack
+
+
+
+
+
 ## [6.0.2](https://github.com/ecomfe/reskript/compare/v6.0.1...v6.0.2) (2023-09-15)
 
 **Note:** Version bump only for package @reskript/config-webpack

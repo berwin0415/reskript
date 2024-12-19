@@ -1,6 +1,6 @@
 {
   "name": "@reskript/cli-build",
-  "version": "6.0.2",
+  "version": "6.2.1",
   "license": "MIT",
   "type": "module",
   "main": "./dist/index.js",
@@ -24,25 +24,25 @@
     "test": "echo 'No test in @reskript/cli-build'"
   },
   "devDependencies": {
-    "@types/node": "^20.6.1",
-    "@types/ramda": "^0.29.4",
-    "eslint": "^8.49.0",
-    "rollup": "^3.29.1",
+    "@types/node": "^20.8.4",
+    "@types/ramda": "^0.29.6",
+    "eslint": "^8.51.0",
+    "rollup": "^3.29.4",
     "typescript": "next",
-    "vite": "^4.4.9",
+    "vite": "^4.4.11",
     "webpack": "^5.88.2"
   },
   "dependencies": {
-    "@reskript/build-utils": "6.0.2",
-    "@reskript/config-vite": "6.0.2",
-    "@reskript/config-webpack": "6.0.2",
-    "@reskript/core": "6.0.2",
-    "@reskript/settings": "6.0.2",
+    "@reskript/build-utils": "6.2.1",
+    "@reskript/config-vite": "6.2.1",
+    "@reskript/config-webpack": "6.2.1",
+    "@reskript/core": "6.2.1",
+    "@reskript/settings": "6.2.1",
     "kolorist": "^1.8.0",
     "matcher": "^5.0.0",
     "pretty-bytes": "^6.1.1",
-    "ramda": "^0.29.0",
-    "tty-table": "^4.2.1",
+    "ramda": "^0.29.1",
+    "tty-table": "^4.2.2",
     "webpack-bundle-analyzer": "^4.9.1"
   },
   "peerDependencies": {

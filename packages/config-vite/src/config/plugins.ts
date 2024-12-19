@@ -85,7 +85,7 @@ const factory: ConfigFactory = async (context, options) => {
         };
     };
     const portalApp = createPortal();
-    settings.portal.setup(portalApp, {router});
+    await settings.portal.setup(portalApp, {router});
     const entries = await pMap(context.entries, toEntryTarget);
     const entryOptions: VirtualEntryOptions = {
         entries,
@@ -112,7 +112,6 @@ const factory: ConfigFactory = async (context, options) => {
 
     return {
         plugins: [
-            // @ts-expect-error
             react(reactOptions),
             portal({app: portalApp}),
             virtualEntry(entryOptions),

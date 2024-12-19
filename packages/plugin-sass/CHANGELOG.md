@@ -3,6 +3,46 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.2.1](https://github.com/ecomfe/reskript/compare/v6.2.0...v6.2.1) (2024-03-13)
+
+**Note:** Version bump only for package @reskript/plugin-sass
+
+
+
+
+
+# [6.2.0](https://github.com/ecomfe/reskript/compare/v6.0.3...v6.2.0) (2024-02-23)
+
+**Note:** Version bump only for package @reskript/plugin-sass
+
+
+
+
+
+## [6.1.1](https://github.com/ecomfe/reskript/compare/v6.1.0...v6.1.1) (2023-12-21)
+
+**Note:** Version bump only for package @reskript/plugin-sass
+
+
+
+
+
+# [6.1.0](https://github.com/ecomfe/reskript/compare/v6.0.3...v6.1.0) (2023-12-18)
+
+**Note:** Version bump only for package @reskript/plugin-sass
+
+
+
+
+
+## [6.0.3](https://github.com/ecomfe/reskript/compare/v6.0.2...v6.0.3) (2023-10-10)
+
+**Note:** Version bump only for package @reskript/plugin-sass
+
+
+
+
+
 ## [6.0.2](https://github.com/ecomfe/reskript/compare/v6.0.1...v6.0.2) (2023-09-15)
 
 **Note:** Version bump only for package @reskript/plugin-sass
